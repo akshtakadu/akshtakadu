@@ -4,10 +4,9 @@ Computer Science Engineering student with a strong interest in web development, 
 
 ## Skills
 - Programming: JavaScript, PHP (learning), Python, C++, Java
-- Web: HTML5, CSS3, JavaScript
-- Databases: MySQL
-- Tools: Git, GitHub
-- Concepts: Data Structures, OOPS, Basic Web Architecture
+- Web & APP: HTML5, CSS3, JavaScript, React JS/Native, Expo, Node.js, Firebase (Auth, Realtime DB, Firestore), MongoDB, Express.js, REST APIs.
+- Tools: Git, GitHub, VS Code, NetBeans, MySQL, Excel; experience with cloud‑style backends and Linux‑based development environments through projects.
+- Concepts: Data Structures, OOPS, Basic Web Architecture, Computer architecture fundamentals, IoT, Cyber Security, Blockchain, smart systems.  
 
 ## Current Focus
 - Learning WordPress core concepts
